@@ -45,6 +45,13 @@ Query knowledge base with optional metadata filters.
 
 ---
 
+### Example: Querying the RAG Engine with Metadata Filter
+curl -X POST http://localhost:8000/query \
+  -F "query=What is the refund policy?" \
+  -F "metadata_filter={\"source\": \"product-docs\"}"
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -113,13 +120,6 @@ rag-knowledge-engine/
 - Automated FAQ responder for websites
 - Context-aware WhatsApp or Telegram bot 
 - Knowledge-driven email automation
-
----
-
-### Example: Querying the RAG Engine with Metadata Filter
-curl -X POST http://localhost:8000/query \
-  -F "query=What is the refund policy?" \
-  -F "metadata_filter={\"source\": \"product-docs\"}"
 
 ---
 
