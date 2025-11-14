@@ -28,7 +28,8 @@ This powers internal knowledge bases, chatbots, customer-support assistants, and
 ## 🏗️ Architecture
 
 ![Architecture](featured-assets/architecture.png)
-Diagram created using Eraser.io
+<small>Diagram created using Eraser.io</small>
+
 ---
 
 ## 🚀 API Endpoints
@@ -51,7 +52,6 @@ rag-knowledge-engine/
 │── main.py
 │── requirements.txt
 │── uploads/
-│── utils/
 │── README.md
 │── .env.example
 │── .gitignore
