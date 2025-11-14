@@ -6,13 +6,13 @@ This powers internal knowledge bases, chatbots, customer-support assistants, and
 
 ---
 
-## 🔥 Demo (Loom Video)
+<!-- ## 🔥 Demo (Loom Video)
 
 👉 <YOUR_LOOM_LINK>
 
 ![Demo](featured-assets/demo.gif)
 
----
+--- -->
 
 ## 🧩 Features
 
