@@ -4,6 +4,6 @@ pydantic
 pdfplumber
 python-multipart
 python-dotenv
-google-generativeai
 pinecone>=3.0.0
-google-generativeai==0.8.5
+google-genai
+anthropic
