@@ -1,0 +1,36 @@
+# Environment variables
+.env
+.env.test
+.env.example
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Byte-compiled / optimized files
+*.pyc
+*.pyd
+*.pdb
+
+# Uploads folder (if you store PDFs during testing)
+uploads/
+
+# Logs
+*.log
+
+# PyCharm settings
+.idea/
+
+# Cache directories
+.cache/
