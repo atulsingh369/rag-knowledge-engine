@@ -90,8 +90,10 @@ rag-knowledge-engine/
 - Pinecone (v3)
 - Gemini Embeddings
 - pdfplumber
-- n8n (optional)
 - Docker-ready
+- n8n (optional)
+- Telegram Bots (optional)
+- Anthropic Claude (optional)
 
 ---
 
