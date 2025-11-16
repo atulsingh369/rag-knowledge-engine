@@ -111,6 +111,7 @@ rag-knowledge-engine/
    PINECONE_API_KEY=your-pinecone-key
    PINECONE_ENVIRONMENT=your-pinecone-env
    GEMINI_API_KEY=your-gemini-key
+   ANTHROPIC_API_KEY=your-anthropic-key
    ```
 
 3. Install dependencies
@@ -130,6 +131,7 @@ rag-knowledge-engine/
 
 - **Pinecone**: Create a Pinecone index with 768 dimensions.
 - **Gemini**: Get an API key from [Google AI Studio](https://ai.google.dev/).
+- **Anthropic**: Get an API key from [Anthropic](https://www.anthropic.com/).
 
 ---
 
