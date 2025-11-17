@@ -6,14 +6,6 @@ This powers internal knowledge bases, chatbots, customer-support assistants, and
 
 ---
 
-<!-- ## 🔥 Demo (Loom Video)
-
-👉 <YOUR_LOOM_LINK>
-
-![Demo](featured-assets/demo.gif)
-
---- -->
-
 ## 🧩 Features
 
 - PDF ingestion → text extraction → chunking
@@ -40,8 +32,6 @@ This powers internal knowledge bases, chatbots, customer-support assistants, and
 ## 🏗️ Architecture
 
 ![Architecture](featured-assets/architecture.png)
-
-<!-- **Diagram created using [Eraser.io](https://www.eraser.io)** -->
 
 ---
 
@@ -74,12 +64,12 @@ curl -X POST http://localhost:8000/query \
 
 ```
 rag-knowledge-engine/
+│── featured-assets/
+│   └── architecture.png
 │── main.py
 │── requirements.txt
-│── uploads/
-│── README.md
-│── .env.example
 │── .gitignore
+│── README.md
 ```
 
 ---
