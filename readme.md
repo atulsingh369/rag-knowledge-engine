@@ -70,6 +70,7 @@ rag-knowledge-engine/
 │── requirements.txt
 │── .gitignore
 │── README.md
+│── LICENSE
 ```
 
 ---
