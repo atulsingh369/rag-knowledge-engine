@@ -135,6 +135,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/atulsingh369/rag-knowledge-engine?tab=MIT-1-ov-file) for details.
 
 ---
